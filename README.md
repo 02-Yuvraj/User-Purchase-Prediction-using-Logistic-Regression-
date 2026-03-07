@@ -13,7 +13,7 @@ NumPy
 Pandas
 Matplotlib
 Scikit-learn
-Seaborn 
+
 
 Dataset
 
